@@ -195,8 +195,6 @@ ggplot(casos_, aes(x = canton, y = activos)) +
 
 Acerca del Covid-19 {data-orientation=rows}
 ===================================== 
-Row {data-height=650}
------------------------------------------------------------------------
 
 ### Acerca del COVID-19 
 
@@ -205,6 +203,6 @@ Este virus fue reportado por vez primera el 31 de diciembre de 2019, en Wuhan (R
 Según estadísticas de la [Caja Costarricense del Seguro Social](https://www.ccss.sa.cr/web/coronavirus/), en Costa Rica, se han reportado 553661 casos positivos de los cuales han fallecido 6880 personas, desde el primer caso reportado el 6 de marzo de 2020.  
 En esta pagina web, se presentan datos, sobre la distribución del virus a nivel espacial en cuanto a los casos positivos, activos y fallecidos por cantón en Costa Rica. 
 
-[Fuente de los datos](https://geovision.uned.ac.cr/oges/) 
+[Fuente de los datos](https://geovision.uned.ac.cr/oges/)
 
 ![](https://pngimg.com/uploads/coronavirus/coronavirus_PNG93680.png){width='200px'}
