@@ -1,7 +1,10 @@
 ---
 title: "Costa Rica; casos de covid-19 para el viernes 22 de octubre del 2021"
 output: 
-  flexdashboard::flex_dashboard
+  flexdashboard::flex_dashboard:
+    theme: cerulean
+    social: menu
+    source_code: embed
 ---
 
 ```{r setup, include=FALSE}
